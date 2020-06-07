@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2020-06-07T22:06:54.783000000</meta:creation-date><meta:generator>LibreOffice/6.0.2.1$Windows_X86_64 LibreOffice_project/f7f06a8f319e4b62f9bc5095aa112a65d2f3ac89</meta:generator><dc:date>2020-06-07T22:15:25.400000000</dc:date><meta:editing-duration>PT8M35S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="1" meta:paragraph-count="1" meta:word-count="10" meta:character-count="71" meta:non-whitespace-character-count="62"/></office:meta>
+ <office:meta><meta:creation-date>2020-06-07T22:06:54.783000000</meta:creation-date><meta:generator>LibreOffice/6.0.2.1$Windows_X86_64 LibreOffice_project/f7f06a8f319e4b62f9bc5095aa112a65d2f3ac89</meta:generator><dc:date>2020-06-07T23:18:01.618000000</dc:date><meta:editing-duration>PT59M57S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="3" meta:object-count="0" meta:page-count="2" meta:paragraph-count="15" meta:word-count="181" meta:character-count="1105" meta:non-whitespace-character-count="939"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">41081</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">35059</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">18618</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">9029</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">7530</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">21221</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">55236</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">41081</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">35057</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">18616</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">59697</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -30,6 +30,15 @@
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">fr</config:config-item>
+     <config:config-item config:name="Country" config:type="string">FR</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
    <config:config-item config:name="PrinterName" config:type="string"/>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
@@ -83,7 +92,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">537614</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">678414</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -118,10 +127,13 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
   <style:font-face style:name="Lucida Sans1" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="swiss"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
@@ -130,6 +142,8 @@
   <style:font-face style:name="SimSun" svg:font-family="SimSun" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
+  <draw:marker draw:name="Extrémités_20_de_20_flèche_20_1" draw:display-name="Extrémités de flèche 1" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+  <draw:stroke-dash draw:name="Fine_20_Dashed" draw:display-name="Fine Dashed" draw:style="rect" draw:dots1="1" draw:dots1-length="197%" draw:distance="197%"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
@@ -177,6 +191,13 @@
      <style:tab-stop style:position="17cm" style:type="right"/>
     </style:tab-stops>
    </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
   </style:style>
   <style:style style:name="Graphics" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
@@ -238,8 +259,217 @@
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0008340e" officeooo:paragraph-rsid="0008340e"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000a5a0e" officeooo:paragraph-rsid="000a5a0e"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000a5a0e" officeooo:paragraph-rsid="000a5a0e"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="000a5a0e"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0008340e" officeooo:paragraph-rsid="0008340e"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000a5a0e" officeooo:paragraph-rsid="000a5a0e"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name=""/>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#ba131a"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#b2b2b2"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#72bf44"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#666666"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:text-properties fo:font-size="12pt"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#72bf44" draw:opacity="30%"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#0066b3"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:font-name="Liberation Serif"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#f58220"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-size="12pt"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt"/>
+  </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:run-through="foreground" style:wrap="none" style:vertical-pos="middle" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(11.181cm, 21.682cm, 12.337cm, 11.155cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:run-through="foreground" style:wrap="none" style:vertical-pos="middle" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(19.692cm, 27.189cm, 4.096cm, 3.799cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <style:style style:name="gr1" style:family="graphic">
+   <style:graphic-properties style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <style:style style:name="gr2" style:family="graphic">
+   <style:graphic-properties svg:stroke-width="0.049cm" svg:stroke-color="#faa61a" draw:marker-start-width="0.427cm" draw:marker-end-width="0.427cm" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.025cm" fo:padding-bottom="0.025cm" fo:padding-left="0.025cm" fo:padding-right="0.025cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr3" style:family="graphic">
+   <style:graphic-properties style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr4" style:family="graphic">
+   <style:graphic-properties svg:stroke-width="0.101cm" svg:stroke-color="#ef413d" draw:marker-start-width="0.503cm" draw:marker-end-width="0.503cm" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.049cm" fo:padding-bottom="0.049cm" fo:padding-left="0.049cm" fo:padding-right="0.049cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr5" style:family="graphic">
+   <style:graphic-properties svg:stroke-width="0.101cm" svg:stroke-color="#000000" draw:marker-start-width="0.503cm" draw:marker-end-width="0.503cm" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.049cm" fo:padding-bottom="0.049cm" fo:padding-left="0.049cm" fo:padding-right="0.049cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr6" style:family="graphic">
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Fine_20_Dashed" svg:stroke-width="0.101cm" draw:marker-start-width="0.503cm" draw:marker-end-width="0.503cm" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.049cm" fo:padding-bottom="0.049cm" fo:padding-left="0.049cm" fo:padding-right="0.049cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr7" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" draw:fill-color="#ba131a" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.737cm" fo:min-width="2.379cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr8" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" draw:fill-color="#b2b2b2" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.057cm" fo:min-width="1.057cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr9" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.697cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr10" style:family="graphic">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.101cm" svg:stroke-color="#5e8ac7" draw:marker-start-width="0.503cm" draw:marker-end-width="0.503cm" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.049cm" fo:padding-bottom="0.049cm" fo:padding-left="0.049cm" fo:padding-right="0.049cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr11" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" draw:fill-color="#72bf44" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.681cm" fo:min-width="0.681cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr12" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" draw:fill-color="#666666" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.349cm" fo:min-width="0.284cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr13" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.631cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr14" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.975cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr15" style:family="graphic">
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Fine_20_Dashed" svg:stroke-color="#000000" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="2.658cm" fo:min-width="3.764cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr16" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.347cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr17" style:family="graphic">
+   <style:graphic-properties svg:stroke-width="0.101cm" svg:stroke-color="#ef413d" draw:marker-start-width="0.503cm" draw:marker-end="" draw:marker-end-width="0.503cm" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.049cm" fo:padding-bottom="0.049cm" fo:padding-left="0.049cm" fo:padding-right="0.049cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr18" style:family="graphic">
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Fine_20_Dashed" svg:stroke-color="#000000" draw:fill="solid" draw:fill-color="#72bf44" draw:opacity="30%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.884cm" fo:min-width="2.274cm" draw:shadow-opacity="30%" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr19" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" draw:fill-color="#0066b3" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.385cm" fo:min-width="0.374cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr20" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.492cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr21" style:family="graphic">
+   <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.371cm" fo:min-width="3.392cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr22" style:family="graphic">
+   <style:graphic-properties svg:stroke-width="0.049cm" svg:stroke-color="#a3238e" draw:marker-start="" draw:marker-start-width="0.427cm" draw:marker-end="Extrémités_20_de_20_flèche_20_1" draw:marker-end-width="0.427cm" draw:fill-color="#f58220" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.025cm" fo:padding-bottom="0.025cm" fo:padding-left="0.025cm" fo:padding-right="0.025cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr23" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.577cm" style:run-through="foreground"/>
+  </style:style>
+  <style:style style:name="gr24" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.489cm" style:run-through="foreground"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
@@ -254,7 +484,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1">
    <style:header>
-    <text:p text:style-name="Header"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="paragraph" svg:x="0.42cm" svg:y="-0.189cm" svg:width="2.782cm" svg:height="0.78cm" draw:z-index="0"><draw:image loext:mime-type="image/png">
+    <text:p text:style-name="Header"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="paragraph" svg:x="0.42cm" svg:y="-0.189cm" svg:width="2.782cm" svg:height="0.78cm" draw:z-index="1"><draw:image loext:mime-type="image/png">
        <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAioAAACbCAYAAABMObBKAAAABHNCSVQICAgIfAhkiAAAAAlw
         SFlzAAAOxAAADsQBlSsOGwAAGRNJREFUeJzt3U9sHNd9B/DvSnTlP7FUoQEKVlJ6qmHUlqlL
         HdSg6bfHIgGBEOucdCtQoDkU8EXqbWd7KcQemgYBgt5y14IBiBrVbZ9JAUGZCwlCTuK4KFCT
@@ -383,7 +613,8 @@
   </style:master-page>
  </office:master-styles>
  <office:body>
-  <office:text>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -391,7 +622,1136 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
    <text:p text:style-name="Title">Banc de test moteur :<text:line-break/>Charge active régulée en couple/vitesse/puissance</text:p>
-   <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P2">Le but est de caractériser un moteur thermique, en mesurant sa vitesse et son rendement pour différents couples appliqués.</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Spécifications</text:h>
+   <text:list xml:id="list1201171588" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P1">Vitesse moteur de 1000 à 3000 tr/min</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P1">Puissance moteur de 0 à 3kW</text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="P6" text:outline-level="1">Synoptique</text:h>
+   <text:p text:style-name="P2"><draw:g text:anchor-type="paragraph" draw:z-index="3" draw:style-name="gr1"><draw:line draw:name="Forme2" draw:style-name="gr2" draw:text-style-name="P10" svg:x1="7.809cm" svg:y1="4.775cm" svg:x2="8.074cm" svg:y2="5.491cm">
+      <text:p/>
+     </draw:line><draw:line draw:name="Forme3" draw:style-name="gr2" draw:text-style-name="P10" svg:x1="9.793cm" svg:y1="2.02cm" svg:x2="8.807cm" svg:y2="5.551cm">
+      <text:p/>
+     </draw:line><draw:g draw:style-name="gr3"><draw:line draw:name="Forme11" draw:style-name="gr4" draw:text-style-name="P10" svg:x1="9.985cm" svg:y1="1.209cm" svg:x2="9.985cm" svg:y2="1.631cm">
+       <text:p/>
+      </draw:line><draw:line draw:name="Forme9" draw:style-name="gr5" draw:text-style-name="P10" svg:x1="9.973cm" svg:y1="3.872cm" svg:x2="9.962cm" svg:y2="4.288cm">
+       <text:p/>
+      </draw:line><draw:g draw:style-name="gr3"><draw:line draw:name="Forme12" draw:style-name="gr6" draw:text-style-name="P10" svg:x1="4.115cm" svg:y1="2.401cm" svg:x2="2.348cm" svg:y2="2.413cm">
+        <text:p/>
+       </draw:line><draw:custom-shape draw:name="Forme2" draw:style-name="gr7" draw:text-style-name="P11" svg:width="3.421cm" svg:height="1.059cm" svg:x="-0.277cm" svg:y="1.867cm">
+        <text:p>Proto+</text:p>
+        <text:p>Transmission</text:p>
+        <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="?f6 0 10800 ?f8 ?f11 10800 ?f9 21600 10800 ?f10 ?f5 10800" draw:text-areas="?f3 ?f3 ?f4 ?f4" draw:type="parallelogram" draw:modifiers="3707.62886597938" draw:enhanced-path="M ?f0 0 L 21600 0 ?f1 21600 0 21600 Z N">
+         <draw:equation draw:name="f0" draw:formula="$0 "/>
+         <draw:equation draw:name="f1" draw:formula="21600-$0 "/>
+         <draw:equation draw:name="f2" draw:formula="$0 *10/24"/>
+         <draw:equation draw:name="f3" draw:formula="?f2 +1750"/>
+         <draw:equation draw:name="f4" draw:formula="21600-?f3 "/>
+         <draw:equation draw:name="f5" draw:formula="?f0 /2"/>
+         <draw:equation draw:name="f6" draw:formula="10800+?f5 "/>
+         <draw:equation draw:name="f7" draw:formula="?f0 -10800"/>
+         <draw:equation draw:name="f8" draw:formula="if(?f7 ,?f13 ,0)"/>
+         <draw:equation draw:name="f9" draw:formula="10800-?f5 "/>
+         <draw:equation draw:name="f10" draw:formula="if(?f7 ,?f12 ,21600)"/>
+         <draw:equation draw:name="f11" draw:formula="21600-?f5 "/>
+         <draw:equation draw:name="f12" draw:formula="21600*10800/?f0 "/>
+         <draw:equation draw:name="f13" draw:formula="21600-?f12 "/>
+         <draw:handle draw:handle-position="$0 top" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600"/>
+        </draw:enhanced-geometry>
+       </draw:custom-shape><draw:g draw:style-name="gr3"><draw:custom-shape draw:name="Forme1" draw:style-name="gr8" draw:text-style-name="P12" svg:width="1.495cm" svg:height="1.495cm" svg:x="3.743cm" svg:y="1.627cm">
+         <text:p/>
+         <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+        </draw:custom-shape><draw:frame draw:name="Forme6" draw:style-name="gr9" draw:text-style-name="P13" svg:width="2.174cm" svg:height="0.698cm" svg:x="3.498cm" svg:y="1.075cm">
+         <draw:text-box>
+          <text:p>Alternateur</text:p>
+         </draw:text-box>
+        </draw:frame>
+       </draw:g>
+      </draw:g><draw:g draw:style-name="gr3"><draw:g draw:style-name="gr3"><draw:line draw:name="Forme9" draw:style-name="gr10" draw:text-style-name="P10" svg:x1="9.999cm" svg:y1="2.103cm" svg:x2="9.999cm" svg:y2="2.74cm">
+         <text:p/>
+        </draw:line><draw:custom-shape draw:name="Forme4" draw:style-name="gr11" draw:text-style-name="P14" svg:width="0.682cm" svg:height="0.682cm" svg:x="9.655cm" svg:y="1.537cm">
+         <text:p/>
+         <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape><draw:custom-shape draw:name="Forme5" draw:style-name="gr12" draw:text-style-name="P15" svg:width="0.285cm" svg:height="1.35cm" svg:x="9.844cm" svg:y="2.607cm">
+         <text:p/>
+         <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+        </draw:custom-shape><draw:frame draw:name="Forme8" draw:style-name="gr13" draw:text-style-name="P16" svg:width="2.703cm" svg:height="0.632cm" svg:x="10.488cm" svg:y="1.586cm">
+         <draw:text-box>
+          <text:p><text:span text:style-name="T1">Carte hacheur</text:span></text:p>
+         </draw:text-box>
+        </draw:frame><draw:frame draw:name="Forme8" draw:style-name="gr14" draw:text-style-name="P16" svg:width="2.703cm" svg:height="0.976cm" svg:x="10.53cm" svg:y="2.701cm">
+         <draw:text-box>
+          <text:p><text:span text:style-name="T1">Résistance de charge</text:span></text:p>
+         </draw:text-box>
+        </draw:frame>
+       </draw:g><draw:custom-shape draw:name="Forme1" draw:style-name="gr15" draw:text-style-name="P17" svg:width="3.765cm" svg:height="2.659cm" svg:x="9.444cm" svg:y="1.419cm">
+        <text:p/>
+        <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+       </draw:custom-shape><draw:frame draw:name="Forme3" draw:style-name="gr16" draw:text-style-name="P13" svg:width="0.518cm" svg:height="0.489cm" svg:x="13.365cm" svg:y="2.401cm">
+        <draw:text-box>
+         <text:p>x5</text:p>
+        </draw:text-box>
+       </draw:frame>
+      </draw:g><draw:line draw:name="Forme4" draw:style-name="gr4" draw:text-style-name="P10" svg:x1="5.043cm" svg:y1="2.05cm" svg:x2="5.729cm" svg:y2="2.05cm">
+       <text:p/>
+      </draw:line><draw:line draw:name="Forme5" draw:style-name="gr17" draw:text-style-name="P10" svg:x1="5.729cm" svg:y1="1.196cm" svg:x2="5.729cm" svg:y2="2.05cm">
+       <text:p/>
+      </draw:line><draw:line draw:name="Forme6" draw:style-name="gr5" draw:text-style-name="P10" svg:x1="5.066cm" svg:y1="2.664cm" svg:x2="5.717cm" svg:y2="2.664cm">
+       <text:p/>
+      </draw:line><draw:line draw:name="Forme8" draw:style-name="gr5" draw:text-style-name="P10" svg:x1="5.717cm" svg:y1="2.664cm" svg:x2="5.729cm" svg:y2="4.289cm">
+       <text:p/>
+      </draw:line><draw:line draw:name="Forme10" draw:style-name="gr5" draw:text-style-name="P10" svg:x1="5.729cm" svg:y1="4.281cm" svg:x2="13.22cm" svg:y2="4.281cm">
+       <text:p/>
+      </draw:line><draw:g draw:style-name="gr3"><draw:custom-shape draw:name="Forme13" draw:style-name="gr18" draw:text-style-name="P18" svg:width="2.274cm" svg:height="4.885cm" svg:x="6.137cm" svg:y="-0.109cm">
+        <text:p/>
+        <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+       </draw:custom-shape><draw:line draw:name="Forme1" draw:style-name="gr4" draw:text-style-name="P10" svg:x1="6.99cm" svg:y1="1.209cm" svg:x2="12.836cm" svg:y2="1.214cm">
+        <text:p/>
+       </draw:line><draw:custom-shape draw:name="Forme3" draw:style-name="gr19" draw:text-style-name="P19" svg:width="0.53cm" svg:height="0.544cm" svg:x="6.874cm" svg:y="0.951cm">
+        <text:p/>
+        <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ring" draw:modifiers="5382.05980066445" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z U 10800 10800 ?f1 ?f1 0 360 N">
+         <draw:equation draw:name="f0" draw:formula="$0 "/>
+         <draw:equation draw:name="f1" draw:formula="10800-$0 "/>
+         <draw:handle draw:handle-position="$0 10800" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="10800"/>
+        </draw:enhanced-geometry>
+       </draw:custom-shape><draw:frame draw:name="Forme7" draw:style-name="gr14" draw:text-style-name="P13" svg:width="2.003cm" svg:height="0.976cm" svg:x="6.475cm" svg:y="-0.109cm">
+        <draw:text-box>
+         <text:p>Capteur de courant</text:p>
+        </draw:text-box>
+       </draw:frame><draw:line draw:name="Forme1" draw:style-name="gr4" draw:text-style-name="P10" svg:x1="5.729cm" svg:y1="1.209cm" svg:x2="7.184cm" svg:y2="1.209cm">
+        <text:p/>
+       </draw:line><draw:frame draw:name="Forme14" draw:style-name="gr20" draw:text-style-name="P13" svg:width="1.708cm" svg:height="0.976cm" svg:x="6.438cm" svg:y="2.283cm">
+        <draw:text-box>
+         <text:p>Carte capteur</text:p>
+        </draw:text-box>
+       </draw:frame>
+      </draw:g>
+     </draw:g><draw:custom-shape draw:name="Forme1" draw:style-name="gr21" draw:text-style-name="P21" svg:width="3.393cm" svg:height="1.371cm" svg:x="7.327cm" svg:y="5.144cm">
+      <text:p text:style-name="P20"><text:span text:style-name="T2">Contrôleur</text:span></text:p>
+      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+     </draw:custom-shape><draw:line draw:style-name="gr22" draw:text-style-name="P22" svg:x1="11.873cm" svg:y1="5.752cm" svg:x2="10.719cm" svg:y2="5.752cm">
+      <text:p/>
+     </draw:line><draw:frame draw:style-name="gr23" draw:text-style-name="P13" svg:width="2.202cm" svg:height="0.578cm" svg:x="11.957cm" svg:y="5.465cm">
+      <draw:text-box>
+       <text:p>Commande</text:p>
+      </draw:text-box>
+     </draw:frame><draw:line draw:style-name="gr22" draw:text-style-name="P22" svg:x1="2.817cm" svg:y1="2.413cm" svg:x2="7.327cm" svg:y2="5.812cm">
+      <text:p/>
+     </draw:line><draw:frame draw:style-name="gr24" draw:text-style-name="P13" svg:width="1.334cm" svg:height="0.489cm" svg:x="2.962cm" svg:y="3.468cm">
+      <draw:text-box>
+       <text:p>Vitesse</text:p>
+      </draw:text-box>
+     </draw:frame>
+    </draw:g>L’alternateur joue le rôle de charge active mécanique : son couple dépend du courant débité. Pour contrôler le courant, nous utilisons une charge active électrique : l’ensemble hacheur+résistance.</text:p>
+   <text:p text:style-name="P2">L’alternateur fournissant 12V, il peut débiter jusqu’à 250A (pour 3 kW), il faut donc dissiper toute cette puissance. Nous avons choisi un banc de 5 résistances de 1ohm, soit 0,2ohms.</text:p>
+   <text:p text:style-name="P2">Le contrôleur mesure la vitesse, le courant, et la tension de l’alternateur. Ainsi, nous pouvons en déduire le couple, et nous avons toutes les données nécessaires et demandées.</text:p>
+   <text:h text:style-name="P8" text:outline-level="1"/>
+   <text:h text:style-name="P9" text:outline-level="1">Schéma de la carte capteur</text:h>
+   <text:p text:style-name="P4"><draw:frame draw:style-name="fr3" draw:name="Image3" text:anchor-type="as-char" svg:width="13.27cm" svg:height="8.574cm" draw:z-index="4"><draw:image loext:mime-type="image/x-vclgraphic">
+      <office:binary-data>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
+       swEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAAAACI
+       yWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAA
+       YjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAA
+       gJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAA
+       ACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAA
+       AACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAA
+       AAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAA
+       AAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAA
+       AAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYA
+       AAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkN
+       AAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExm
+       AwAAAAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT
+       2QAAAAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADE
+       ZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAA
+       MZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAA
+       QExmAwAAAAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAA
+       ABCT2QAAAAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAA
+       AADEZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAA
+       AAAAMZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAA
+       AAAAQExmAwAAAAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAA
+       AAAAABCT2QAAAAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsA
+       AAAAAADEZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwG
+       AAAAAAAAMZkNAAAAAAAAYjIbAAAAAAAAxGS2f7yfz9fnc/ZWAAAAAAAAXIa8IrMBAAAAAABA
+       TGb7d2tVXAEAAAAAABaSVx4yGwAAAAAAAKxQe2arvLICAAAAAACwTu2ZDQAAAAAAgIhRTA2Z
+       7d/MHwoAAAAAABCpPK9Undl+/uPbfwEAAAAAAPiVvNKqOrM9/reytqc9IQAAAAAAAOb1RrDV
+       nFfqzWzDMYyVD2wEAAAAAAD4VS+m1JxX6s1so+p8EgAAAAAAAKxWbV6pN7NV+18OAAAAAACw
+       msLSqjezAQAAAAAAwGoyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAAACAmswEA
+       AAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAAAACIyWwA
+       AAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAAYjIb
+       AAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAAgJjM
+       BgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAAACAm
+       swEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAAAACI
+       yWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAA
+       YjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAA
+       gJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAA
+       ACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAA
+       AACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAA
+       AAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAA
+       AAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAA
+       AAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYA
+       AAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkN
+       AAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExm
+       AwAAAAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT
+       2QAAAAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADE
+       ZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAA
+       MZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAA
+       QExmAwAAAAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAA
+       ABCT2QAAAAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAA
+       AADEZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAA
+       AAAAMZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAA
+       AAAAQExmAwAAAAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAA
+       AAAAABCT2QAAAAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsA
+       AAAAAADEZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwG
+       AAAAAAAAMZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICaz
+       AQAAAAAAQExmAwAAAAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJ
+       bAAAAAAAABCT2QAAAAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABi
+       MhsAAAAAAADEZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACA
+       mMwGAAAAAAAAMZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAA
+       ICazAQAAAAAAQKy6zPZ+Ps/eBAAAAAAAgCuRV0ZVl9len8/Cc3rGAAAAAAAAPJK88qipsFSX
+       2QAAAAAAAOB7MhsAAAAAAADEZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAAAABA
+       TGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAAAAAA
+       EJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAAAAAA
+       AMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYAAAAA
+       AAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMBAAAA
+       AABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMlsAAAA
+       AAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAAgJjMBgAAAAAAADGZDQAAAAAAAGIyGwAA
+       AAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAAACAmswEAAAAAAEBMZgMAAAAAAICYzAYA
+       AAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAgJrMB
+       AAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAAiMls
+       AAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAAgJjMBgAAAAAAADGZDQAAAAAAAGIy
+       GwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAAACAmswEAAAAAAEBMZgMAAAAAAICY
+       zAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAAAAAg
+       JrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAAAAAA
+       iMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAAgJjMBgAAAAAAADGZDQAAAAAA
+       AGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAAACAmswEAAAAAAEBMZgMAAAAA
+       AICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAAAACIyWwAAAAAAAAQk9kAAAAA
+       AAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAAYjIbAAAAAAAAxGQ2AAAA
+       AAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAAgJjMBgAAAAAAADGZDQAA
+       AAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAAACAmswEAAAAAAEBMZgMA
+       AAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAAAACIyWwAAAAAAAAQk9kA
+       AAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAAYjIbAAAAAAAAxGQ2
+       AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAAgJjMBgAAAAAAADGZ
+       DQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAAACAmswEAAAAAAEBM
+       ZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAAAACIyWwAAAAAAAAQ
+       k9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAAYjIbAAAAAAAA
+       xGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAAgJjMBgAAAAAA
+       ADGZDQAAAAAAAGIyGwAAAAAAAMRkNgAAAAAAAIjJbAAAAAAAABCT2QAAAAAAACAmswEAAAAA
+       AEBMZgMAAAAAAICYzAYAAAAAAAAxmQ0AAAAAAABiMhsAAAAAAADEZDYAAAAAAACIyWwAAAAA
+       AAAQk9kAAAAAAAAgJrMBAAAAAABATGYDAAAAAACAmMwGAAAAAAAAMZkNAAAAAAAAYjIbAAAA
+       AAAAxGQ2AAAAAAAAiMlsAAAAAAAAEJPZAAAAAAAAICazAQAAAAAAQExmAwAAAAAAgJjMBgAA
+       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
+       AAAAAACAYjIbAAAAAAAAFJPZAAAAAAAAoJjMBgAAAAAAAMVkNgAAAAAAACgmswEAAAAAAEAx
+       mQ0AAAAAAACKyWwAAAAAAABQTGYDAAAAAACAYjIbAAAAAAAAFJPZAAAAAAAAoJjMBgAAAAAA
+       AMVkNgAAAAAAACgmswEAAAAAAEAxmQ0AAAAAAACKyWwAAAAAAABQTGYDAAAAAACAYjIbAAAA
+       AAAAFJPZAAAAAAAAoJjMBgAAAAAAAMVkNgAAAAAAACgmswEAAAAAAEAxmQ0AAAAAAACKyWwA
+       AAAAAABQTGYDAAAAAACAYjIbAAAAAAAAFJPZAAAAAAAAoJjMBgAAAAAAAMVkNgAAAAAAACgm
+       swEAAAAAAEAxmQ0AAAAAAACKyWwAAAAAAABQTGYDAAAAAACAYjIbAAAAAAAAFJPZAAAAAAAA
+       oJjMBgAAAAAAAMVkNgAAAAAAACgmswEAAAAAAEAxmQ0AAAAAAACKyWwAAAAAAABQTGYDAAAA
+       AACAYjIbAAAAAAAAFJPZAAAAAAAAoJjMBgAAAAAAAMX+DyeZeAnxbhVmAAAAAElFTkSuQmCC
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P3">On retrouve une sonde de tension (12V→ 5V), et le capteur de courant. Les deux ont un buffer de sortie.</text:p>
+   <text:h text:style-name="P7" text:outline-level="1">Schéma de la carte hacheur</text:h>
+   <text:p text:style-name="P5"><draw:frame draw:style-name="fr2" draw:name="Image2" text:anchor-type="as-char" svg:width="11.802cm" svg:height="8.221cm" draw:z-index="2"><draw:image loext:mime-type="image/x-vclgraphic">
+      <office:binary-data>iVBORw0KGgoAAAANSUhEUgAACSIAAAZ1CAIAAAC8M69lAABmOElEQVR4nOzd2XajSrZAUTHG
+       /Wvy0Xw311mcojh0YtNGEHM+5JBRh42stFne8H9t234AAAAAAACAiP97egUAAAAAAAAgPzIb
+       AAAAAAAAhMlsAAAAAAAAECazAQAAAAAAQJjMBgAAAAAAAGEyGwAAAAAAAITJbAAAAAAAABAm
+       swEAAAAAAECYzAYAAAAAAABhMhsAAAAAAACEyWwAAAAAAAAQJrMBAAAAAABAmMwGAAAAAAAA
+       YTIbAAAAAAAAhMlsAAAAAAAAECazAQAAAAAAQJjMBgAAAAAAAGEyGwAAAAAAAITJbAAAAAAA
+       ABAmswEAAAAAAECYzAYAAAAAAABhMhsAAAAAAACEyWwAAAAAAAAQJrMBAAAAAABAmMwGAAAA
+       AAAAYTIbAAAAAAAAhMlsAAAAAAAAECazAQAAAAAAQJjMBgAAAAAAAGEyGwAAAAAAAITJbAAA
+       AAAAABAmswEAAAAAAECYzAYAAAAAAABhMhsAAAAAAACEyWwAAAAAAAAQJrMBAAAAAABAmMwG
+       AAAAAAAAYTIbAAAAAAAAhMlsAAAAAAAAECazAQAAAAAAQJjMBgAAAAAAAGEyGwAAAAAAAITJ
+       bAAAAAAAABAmswEAAAAAAECYzAYAAAAAAABhMhsAAAAAAACEyWwAAAAAAAAQJrMBAAAAAABA
+       mMwGAAAAAAAAYTIbAAAAAAAAhMlsAAAAAAAAECazAQAAAAAAQJjMBgAAAAAAAGEyGwAAAAAA
+       AITJbAAAAAAAABAmswEAAAAAAECYzAYAAAAAAABhMhsAAAAAAACEyWwAAAAAAAAQJrMBAAAA
+       AABAmMwGAAAAAAAAYTIbAAAAAAAAhMlsAAAAAAAAECazAQAAAAAAQJjMBgAAAAAAAGEyGwAA
+       AAAAAITJbAAAAAAAABAmswEAAAAAAECYzAYAAAAAAABhMhsAAAAAAACEyWwAAAAAAAAQJrMB
+       AAAAAABAmMwGAAAAAAAAYTIbAAAAAAAAhMlsAAAAAAAAECazAQAAAAAAQJjMBgAAAAAAAGEy
+       GwAAAAAAAISVldmaqnp6FQAAAAAAAF6ubtunV+EOZWW2TzHbFchIU1XemoAEeXcC0uTdiYt4
+       aXGQlxCQIG9NPKicqafiMhtcxH9aQFKmP8p4jwIeN/tblncnAIBZfq0DkjV8g/LWJLPBCcop
+       80BGhj/leJsCUjD67ctfKQHp8I4EpMlbE5Asb1A9mQ2O6n4fswsbSIqfdYDE2aMNAACQI7/N
+       jchscJT3FAAAgNew5wgAYImflKZkNgAA4FbdYQD8egYAsG508CQ/OwEp8NY0IrMBwMvZkQ2k
+       pn9T8gYFpMB7EZAsp9wG0jR6dyr8RymZDQDezM86AAAAORr9Kvf7od/vgBR4IxqR2QDgtfwO
+       BgCwhRkRAAD2kdkA4J00NgCALUY/MkluAABsJ7MBwAtpbAAAAG/itzwgBQ5gOyWzwVH9nzr2
+       F7zLAM/q3o6Gf4jtfQlIwXRAxLsTkCBvTUAiDNcCybLTaUhmg6O8jwCp8b4EpMm7EwDAdn52
+       AtLk3WlEZgMAAAAAAIAwmW2RuWzgNt5wgDR5dwLS5N0JSJN3JyBB3po4kTm2WTLbGi8aAAAA
+       AACgcJLtEpkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJk
+       NgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAg
+       TGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAA
+       AMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAA
+       AAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAA
+       AAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kA
+       AAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZ
+       DQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAI
+       k9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAA
+       gDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAA
+       AAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAA
+       AAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYA
+       AAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExm
+       AwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADC
+       ZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAA
+       IExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAA
+       AADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAA
+       AAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0A
+       AAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZ
+       AAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAw
+       mQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAA
+       CJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAA
+       AIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAA
+       AAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMA
+       AAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2
+       AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBM
+       ZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAA
+       wmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAA
+       ACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAA
+       AAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2f5q
+       qqpu26fXAgAAAAAAIBvyiswGAAAAAAAAYTLbP61VcQUAAAAAANhIXvnIbAAAAAAAALBD6Zmt
+       8MoKAAAAAADAPqVnNgAAAAAAAEJMMXVktn84figAAAAAAEBI4Xml6Mz2u+H7fwEAAAAAAPhK
+       XukVndk+/6ms/WUvCAAAAAAAgHWjCbaS80q5mW06w1j4YCMAAAAAAMBXo5hScl4pN7PNKvNF
+       AAAAAAAAsFuxeaXczFbsJgcAAAAAANhNYemVm9kAAAAAAABgN5kNAAAAAAAAwmQ2AAAAAAAA
+       CJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMAAAAA
+       AIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2AAAA
+       AAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBMZgMA
+       AAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAAwmQ2
+       AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAAACBM
+       ZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAAAAAA
+       wmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAAAAAA
+       ACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkNAAAA
+       AAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT2QAA
+       AAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACAMJkN
+       AAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAAAAiT
+       2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAAAACA
+       MJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAAAAAA
+       AAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYDAAAA
+       AACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJkNgAA
+       AAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAgTGYD
+       AAAAAACAMJkNAAAAAAAAwmQ2AAAAAAAACJPZAAAAAAAAIExmAwAAAAAAgDCZDQAAAAAAAMJk
+       NgAAAAAAAAiT2QAAAAAAACBMZgMAAAAAAIAwmQ0AAAAAAADCZDYAAAAAAAAIk9kAAAAAAAAg
+       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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P3">Cette carte est composée d’un MOSFET de découpage, ainsi que de son driver, et de divers éléments de protection.</text:p>
   </office:text>
  </office:body>
 </office:document>

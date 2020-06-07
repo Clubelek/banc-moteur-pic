@@ -46,5 +46,5 @@ gerbers/
 ### Others ###
 !.gitignore
 *.zip
-
+.~lock*
 
