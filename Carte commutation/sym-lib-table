@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Materiel)(type Legacy)(uri "C:/Users/User/Documents/Kicad/Carte commutation/Materiel.lib")(options "")(descr ""))
+  (lib (name Logo_clubelek)(type Legacy)(uri "${KIPRJMOD}/Logo clubelek.lib")(options "")(descr ""))
+  (lib (name Logo_PIC)(type Legacy)(uri "${KIPRJMOD}/Logo PIC.lib")(options "")(descr ""))
+  (lib (name Carte-commutation-rescue)(type Legacy)(uri "${KIPRJMOD}/Carte commutation-rescue.lib")(options "")(descr ""))
+)

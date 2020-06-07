@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRFP4468PBF
+D INTERNATIONAL RECTIFIER - IRFP4468PBF - N CHANNEL MOSFET, 100V, 290A, TO-247AC
+F https://eagle.componentsearchengine.com/Datasheets/2/IRFP4468PBF.pdf
+$ENDCMP
+#
+$CMP TC4421AVAT
+D Microchip TC4421AVAT, MOSFET Power Driver 10A, 4.5  18 V, Inverting, 5-Pin TO-220
+$ENDCMP
+#
+#End Doc Library
